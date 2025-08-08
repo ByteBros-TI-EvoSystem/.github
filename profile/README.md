@@ -45,9 +45,5 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 ## 📍 Status do Projeto
 🚧 **Em desenvolvimento** 🚧
 
----
-
-## 📄 Licença
-Este projeto é de uso interno e restrito à equipe de desenvolvimento.
 
 
