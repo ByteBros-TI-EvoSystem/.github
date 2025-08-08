@@ -1,4 +1,4 @@
-# 🛠️ EvoSystem - Sistema de Diagnóstico e Otimização de PCs
+# EvoSystem - Sistema de Diagnóstico e Otimização de PCs
 
 ## 📋 Sobre o Projeto
 Este projeto consiste no desenvolvimento de um **aplicativo desktop** que pode ser baixado diretamente do nosso site para executar **diversos testes no sistema operacional** do usuário.  
@@ -28,7 +28,7 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 | Nome | Função |
 |------|--------|
 | **Aleff Matheus** | Back-end / Infra |
-| **Bruno Monteiro** | Documentação |
+| **Bruno Monteiro** | Documentação / Desenvolvedor Front-end |
 | **Guilherme Miranda Cavalcante** | Desenvolvedor Full Stack / Gerente de Projetos |
 | **José Waldo Neto** | Desenvolvedor Back-end / Testes |
 | **Luiz Felipe Santos** | Desenvolvedor Front-end / Testes |
