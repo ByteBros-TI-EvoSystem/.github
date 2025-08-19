@@ -28,7 +28,7 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 | Nome | Função |
 |------|--------|
 | **Aleff Matheus** | Back-end / Infra |
-| **Bruno Monteiro** | Documentação / Desenvolvedor Front-end |
+| **Bruno Monteiro** | Documentação |
 | **Guilherme Miranda Cavalcante** | Desenvolvedor Full Stack / Gerente de Projetos |
 | **José Waldo Neto** | Desenvolvedor Back-end / Testes |
 | **Luiz Felipe Santos** | Desenvolvedor Front-end / Testes |
@@ -36,7 +36,7 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 ---
 
 ## 🗂️ Organização e Ferramentas Utilizadas
-- **Controle de código e versionamento:** GitHub
+- **Controle de código e versionamento:** [GitHub](https://github.com/orgs/ByteBros-TI-EvoSystem/repositories)
 - **Planejamento e acompanhamento:** Trello
 - **Desenvolvimento:** VS Code
 
@@ -44,6 +44,3 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 
 ## 📍 Status do Projeto
 🚧 **Em desenvolvimento** 🚧
-
-
-
