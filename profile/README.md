@@ -37,7 +37,7 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 
 ## 🗂️ Organização e Ferramentas Utilizadas
 - **Controle de código e versionamento:** [GitHub](https://github.com/orgs/ByteBros-TI-EvoSystem/repositories)
-- **Planejamento e acompanhamento:** Trello
+- **Planejamento e acompanhamento:** [GitHub](https://github.com/orgs/Evo-System/projects/3)
 - **Desenvolvimento:** VS Code
 
 ---
