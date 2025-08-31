@@ -39,6 +39,7 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 - **Controle de código e versionamento:** [GitHub](https://github.com/orgs/ByteBros-TI-EvoSystem/repositories)
 - **Planejamento e acompanhamento:** [GitHub](https://github.com/orgs/Evo-System/projects/3)
 - **Desenvolvimento:** VS Code
+- **Documentação do Projeto:** [Documentação](https://docs.google.com/document/d/16WbK3WD7hhQQaWv8smhe4gcTxr6Ynm67/edit?usp=sharing&ouid=111441773678961149686&rtpof=true&sd=true)
 
 ---
 
