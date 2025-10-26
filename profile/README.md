@@ -1,9 +1,11 @@
 # EvoSystem - Sistema de Diagnóstico e Otimização de PCs
 
 ## 📋 Sobre o Projeto
-Este projeto consiste no desenvolvimento de um **aplicativo desktop** que pode ser baixado diretamente do nosso site para executar **diversos testes no sistema operacional** do usuário.  
-O objetivo é identificar problemas, gargalos e configurações inadequadas que impactam a performance da máquina, além de sugerir melhorias para **otimizar processos e reduzir falhas**.
+Com o aumento da dependência de computadores para trabalho, estudos e lazer, o desempenho do sistema operacional tornou-se um fator crítico para a produtividade e a experiência do usuário. No entanto, muitos usuários enfrentam problemas recorrentes de lentidão, travamentos e instabilidade, muitas vezes sem compreender as causas reais por trás dessas falhas.
 
+Grande parte dessas dificuldades decorre de configurações inadequadas, sobrecarga de processos e falta de manutenção preventiva do sistema. Apesar de existirem ferramentas de diagnóstico no mercado, muitas delas são complexas, exigem conhecimentos técnicos avançados ou não fornecem recomendações claras para correção dos problemas identificados.
+
+Diante desse cenário, este projeto surge com a proposta de desenvolver um aplicativo desktop acessível e intuitivo, capaz de executar uma série de testes automáticos no sistema operacional do usuário. O objetivo é detectar gargalos, falhas de desempenho e configurações incorretas, além de sugerir melhorias personalizadas para otimizar o funcionamento da máquina e reduzir falhas operacionais.
 ---
 
 ## 🚀 Objetivos
