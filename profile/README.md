@@ -6,7 +6,13 @@ O objetivo é identificar problemas, gargalos e configurações inadequadas que 
 
 ---
 
-## 🚀 Objetivo
+## 🚀 Objetivos
+## Objetivo Geral:
+	
+Um software para fazer diagnósticos e sugerir atualizações via Windows Update/ Gerenciador de dispositivos.
+
+## Objetivos Específicos
+
 Proporcionar aos usuários uma ferramenta prática e eficiente para:
 - Detectar problemas no sistema operacional;
 - Sugerir ajustes e correções automáticas ou manuais;
