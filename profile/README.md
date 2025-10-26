@@ -39,19 +39,22 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 
 ### 🔧 Controle de Código e Versionamento
 - **GitHub** – Utilizado para hospedagem do código-fonte e controle de versões.
+- (https://github.com/orgs/ByteBros-TI-EvoSystem/repositories)
 
 ### 🗓️ Planejamento e Acompanhamento
 - **GitHub Projects** – Usado para gerenciar tarefas, acompanhar o progresso e organizar o fluxo de trabalho.
+- (https://github.com/orgs/Evo-System/projects/3)
 
 ### 💻 Desenvolvimento
 - **Visual Studio Code (VS Code)** – Ambiente principal de desenvolvimento, com suporte a extensões e integração com Git.
 
 ### 📝 Documentação do Projeto
 - **Documentação** – Reúne informações sobre arquitetura, funcionalidades e requisitos do sistema.
+- (https://docs.google.com/document/d/16WbK3WD7hhQQaWv8smhe4gcTxr6Ynm67/edit?usp=sharing&ouid=111441773678961149686&rtpof=true&sd=true)
 
 ### 📊 Formulário de Pesquisa
-- **Microsoft Forms / Google Forms** – Ferramenta utilizada para coleta de dados e feedback dos usuários.
-
+- **Google Forms** – Ferramenta utilizada para coleta de dados e feedback dos usuários.
+- (https://forms.gle/Z3azqPkTmanhC5NbA)
 
 ---
 
