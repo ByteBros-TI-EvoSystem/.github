@@ -6,6 +6,7 @@ Com o aumento da dependência de computadores para trabalho, estudos e lazer, o 
 Grande parte dessas dificuldades decorre de configurações inadequadas, sobrecarga de processos e falta de manutenção preventiva do sistema. Apesar de existirem ferramentas de diagnóstico no mercado, muitas delas são complexas, exigem conhecimentos técnicos avançados ou não fornecem recomendações claras para correção dos problemas identificados.
 
 Diante desse cenário, este projeto surge com a proposta de desenvolver um aplicativo desktop acessível e intuitivo, capaz de executar uma série de testes automáticos no sistema operacional do usuário. O objetivo é detectar gargalos, falhas de desempenho e configurações incorretas, além de sugerir melhorias personalizadas para otimizar o funcionamento da máquina e reduzir falhas operacionais.
+
 ---
 
 ## 🚀 Objetivos
