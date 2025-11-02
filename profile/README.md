@@ -55,7 +55,7 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 - (https://github.com/orgs/Evo-System/projects/3)
 
 ### 💻 Desenvolvimento
-- **Visual Studio Code (VS Code)** – Ambiente principal de desenvolvimento, com suporte a extensões e integração com Git.
+- **Visual Studio 2022** – Ambiente principal de desenvolvimento, com suporte a extensões e integração com Git.
 
 ### 📝 Documentação do Projeto
 - **Documentação** – Reúne informações sobre arquitetura, funcionalidades e requisitos do sistema.
