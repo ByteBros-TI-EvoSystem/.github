@@ -48,7 +48,7 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 
 ### 🔧 Controle de Código e Versionamento
 - **GitHub** – Utilizado para hospedagem do código-fonte e controle de versões.
-- (https://github.com/orgs/ByteBros-TI-EvoSystem/repositories)
+- (https://github.com/orgs/Evo-System/repositories)
 
 ### 🗓️ Planejamento e Acompanhamento
 - **GitHub Projects** – Usado para gerenciar tarefas, acompanhar o progresso e organizar o fluxo de trabalho.
