@@ -61,6 +61,10 @@ Nosso aplicativo realiza uma **varredura detalhada** no sistema, detectando poss
 - **Documentação** – Reúne informações sobre arquitetura, funcionalidades e requisitos do sistema.
 - (https://docs.google.com/document/d/16WbK3WD7hhQQaWv8smhe4gcTxr6Ynm67/edit?usp=sharing&ouid=111441773678961149686&rtpof=true&sd=true)
 
+### 📋 Requisitos
+- **Requisitos** - Reúne os principais requisitos do sistema identificados pela pesquisa.
+- (https://docs.google.com/document/d/1bH9JkM_ryMxuCrsFQqCuXyoZZO82tZLH2WXXmt9l4BY/edit?usp=sharing)
+
 ### 📊 Formulário de Pesquisa
 - **Google Forms** – Ferramenta utilizada para coleta de dados e feedback dos usuários.
 - (https://forms.gle/67ihd1JQHLizUfPM8)
