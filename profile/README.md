@@ -52,10 +52,11 @@ Projeto desenvolvido no **1º semestre de 2026** durante a matéria de **Projeto
 | Guilherme Miranda Cavalcante | Scrum Master · Frontend · Backend | github.com/M1r40107 |
 | José Waldo Saraiva Câmara Neto | Documentação · Backend | github.com/josewaldoneto |
 | Bruno Monteiro Fonseca | Arquitetura de software · Backend · Frontend | github.com/BrunoMont18 |
+| Daniel Guimarães Silva | Deploy • Organização | github.com/dadags |
 
 
 **Orientação acadêmica:**
-- Professora orientadora: Kadidja Valéria Reginaldo de Oliveira
+- Professora orientadora: Tiago Leite Pereira
 - Stakeholder: Cleber Machado Ortiz
 
 ---
