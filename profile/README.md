@@ -221,7 +221,7 @@ ByteReports/repositories
 - [ ] Histórico de análises anteriores
 - [ ] Detecção do Cycle Count e desgaste da bateria em notebooks
 - [ ] Estimativa de vida útil dos componentes
-- [ ] Suporte a placas de vídeo integradas
+- [ ] Melhoria no suporte a placas de vídeo integradas e dedicadas
 
 ---
 
